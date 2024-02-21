@@ -1,0 +1,93 @@
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET Core
+project.lock.json
+project.assets.json
+
+*.obj
+*.bin
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vscode
+*.vs
+*.nupkg
+*.pfx
+*.snk
+
+# YourProjectName specific files (replace 'YourProjectName' with the actual name of your project)
+GameMart/bin
+GameMart/obj
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017/2019 cache/options directory
+.vs/
+.vscode/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.psess
+*.vsp
+*.vspx
+*.user
+*.browsingdat
+*.cache
+*.csproj.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.booproj
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
