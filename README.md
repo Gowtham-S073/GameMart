@@ -28,6 +28,6 @@ We value your feedback and strive to continuously improve the GameMart experienc
 # 🌐 Connect with Us
 - **Website:** [www.gamemart.com](http://www.gamemart.com)
 - **Email:** [support@gamemart.com](mailto:support@gamemart.com)
-- **GitHub Repository:** [GameMart GitHub]([https://github.com/your-github-repo](https://github.com/Gowtham-S073/GameMart))
+- **GitHub Repository:** [GameMart GitHub](https://github.com/Gowtham-S073/GameMart)
 
 Thank you for choosing GameMart! Happy gaming! 🎉
